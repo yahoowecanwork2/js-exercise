@@ -30,9 +30,9 @@
 // console.log(arr);
 // arr.push(4);
 // arr = [5, 6];
-let a = 10;
-{
-    var a = 20;
-    console.log(a);
-}
+// let a = 10;
+// {
+//     var a = 20;
+//     console.log(a);
+// }
 
